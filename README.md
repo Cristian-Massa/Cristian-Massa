@@ -1,7 +1,5 @@
 # ¡Hola, soy Cristian! 👋
 
-![Avatar](https://avatars.githubusercontent.com/u/109998938?v=4)
-
 ## Acerca de mí
 
 Soy un graduado de la UTU en Uruguay, donde obtuve mi título como Mecánico Automotriz. Sin embargo, mi pasión por la tecnología y la programación me llevó a explorar un nuevo mundo. Fue amor a primera vista cuando descubrí HTML y CSS, lo que me impulsó a seguir una carrera en el desarrollo web.
