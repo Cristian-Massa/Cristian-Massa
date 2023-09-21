@@ -16,7 +16,7 @@ Soy un graduado de la UTU en Uruguay, donde obtuve mi título como Mecánico Aut
 
 ## Proyectos Destacados
 
-- [Proyecto 1](enlace_al_proyecto_1): Una breve descripción de tu primer proyecto destacado.
+- [https://www.linkedin.com/in/cristian-massa-5880931a3/](enlace_al_proyecto_1): Una breve descripción de tu primer proyecto destacado.
 
 - [Proyecto 2](enlace_al_proyecto_2): Una breve descripción de tu segundo proyecto destacado.
 
