@@ -16,9 +16,9 @@ Soy un graduado de la UTU en Uruguay, donde obtuve mi título como Mecánico Aut
 
 ## Proyectos Destacados
 
-- [lin](enlace_al_proyecto_1): Una breve descripción de tu primer proyecto destacado.
+- [Portafolio](https://cristianmassa.vercel.app): Portafolio. Hecho con react, tailwind y node.
 
-- [Proyecto 2](enlace_al_proyecto_2): Una breve descripción de tu segundo proyecto destacado.
+- [Boho compra y ventas de voletos](https://pf-ptb-grupo-06.vercel.app): Pagina de compra y ventas de boletos para eventos. Hecho con react, tailwind y node.
 
 ## Contacto
 
