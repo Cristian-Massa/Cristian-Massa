@@ -16,7 +16,7 @@ Soy un graduado de la UTU en Uruguay, donde obtuve mi título como Mecánico Aut
 
 ## Proyectos Destacados
 
-- [https://www.linkedin.com/in/cristian-massa-5880931a3/](enlace_al_proyecto_1): Una breve descripción de tu primer proyecto destacado.
+- [lin](enlace_al_proyecto_1): Una breve descripción de tu primer proyecto destacado.
 
 - [Proyecto 2](enlace_al_proyecto_2): Una breve descripción de tu segundo proyecto destacado.
 
@@ -24,9 +24,8 @@ Soy un graduado de la UTU en Uruguay, donde obtuve mi título como Mecánico Aut
 
 ¡Siempre estoy abierto a nuevas oportunidades y colaboraciones! Puedes encontrarme en:
 
-- GitHub: [Tu perfil de GitHub](enlace_a_tu_perfil_de_github)
-- LinkedIn: [Tu perfil de LinkedIn](enlace_a_tu_perfil_de_linkedin)
-- Correo electrónico: [tu@email.com](mailto:tu@email.com)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/cristian-massa-5880931a3/)
+- Correo electrónico: [cristianmassa30@gmail.com](mailto:cristianmassa30@gmail.com)
 
 ¡Gracias por visitar mi perfil de GitHub! Espero que encuentres interesantes mis proyectos y contribuciones. ¡No dudes en ponerte en contacto conmigo si tienes alguna pregunta o si quieres trabajar juntos en algo emocionante!
 
