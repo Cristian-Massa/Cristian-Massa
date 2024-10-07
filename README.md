@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Cristian Massa</h1>
 <h3 align="center">A passionate fullstack developer from Uruguay</h3>
 
-- 🌱 I’m currently learning **Nest.js, SQL, PostgreSQL**
+<p align="center">🌱 I’m currently learning **Nest.js, SQL, PostgreSQL**</p>
 
-- 👨‍💻 All of my projects are available at [https://cristian-massa.vercel.app](https://cristian-massa.vercel.app)
+<p align="center">👨‍💻 All of my projects are available at [https://cristian-massa.vercel.app](https://cristian-massa.vercel.app)</p>
 
-- 💬 Ask me about **React, Next.js, Nest.js, Node.js, Express.js**
+<p align="center">💬 Ask me about **React, Next.js, Nest.js, Node.js, Express.js**</p>
 
-- 📫 How to reach me **cristianmassa30@gmail.com**
+<p align="center">📫 How to reach me **cristianmassa30@gmail.com**</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
