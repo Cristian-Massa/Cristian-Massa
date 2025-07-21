@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Cristian Massa</h1>
 <h3 align="center">A passionate fullstack developer from Uruguay</h3>
 
-<p align="center">🌱 I’m currently learning <b>Nest.js, SQL, PostgreSQL</b></p>
+<p align="center">🌱 I love developing on <b>Nest.js, SQL, PostgreSQL</b></p>
 
 <p align="center">👨‍💻 All of my projects are available at <a href="https://cristian-massa.vercel.app">cristian-massa.vercel.app</a></p>
 
